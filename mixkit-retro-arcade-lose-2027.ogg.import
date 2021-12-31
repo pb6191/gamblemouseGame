@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mixkit-retro-arcade-lose-2027.ogg-6e090aeaf55f8491fcf4b318f6302be8.oggstr"
+
+[deps]
+
+source_file="res://mixkit-retro-arcade-lose-2027.ogg"
+dest_files=[ "res://.import/mixkit-retro-arcade-lose-2027.ogg-6e090aeaf55f8491fcf4b318f6302be8.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

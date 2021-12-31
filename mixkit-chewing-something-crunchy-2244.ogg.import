@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mixkit-chewing-something-crunchy-2244.ogg-dae50b728681b1ab9e76efa13451508f.oggstr"
+
+[deps]
+
+source_file="res://mixkit-chewing-something-crunchy-2244.ogg"
+dest_files=[ "res://.import/mixkit-chewing-something-crunchy-2244.ogg-dae50b728681b1ab9e76efa13451508f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

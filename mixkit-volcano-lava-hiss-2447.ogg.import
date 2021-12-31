@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mixkit-volcano-lava-hiss-2447.ogg-2a6ac4b44b0154a233debad5aaef61d7.oggstr"
+
+[deps]
+
+source_file="res://mixkit-volcano-lava-hiss-2447.ogg"
+dest_files=[ "res://.import/mixkit-volcano-lava-hiss-2447.ogg-2a6ac4b44b0154a233debad5aaef61d7.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
